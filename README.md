@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @codingpaw
+- 👀 I’m interested in starting out web development!
+- 🌱 I’m currently learning to make my first website with React.
